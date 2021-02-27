@@ -7,10 +7,4 @@
 - 👀 Machine Learning enthusiast
 - Express, ReactJS
 - ❤️ Snowboarding 🏂 and weight lifting 🏋️
-
-<br>
-<br>
-
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=ManiacMaxo&theme=flat&no-frame=true&margin-w=30" />
-</div>
+- 
