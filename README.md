@@ -7,4 +7,3 @@
 - 👀 Machine Learning enthusiast
 - Express, ReactJS
 - ❤️ Snowboarding 🏂 and weight lifting 🏋️
-- 
