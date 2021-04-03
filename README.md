@@ -5,5 +5,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ManiacMaxo&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 - 👀 Machine Learning enthusiast
-- Express, ReactJS
+- previously Express and React, now NextJS
 - ❤️ Snowboarding 🏂 and weight lifting 🏋️
