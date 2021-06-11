@@ -20,4 +20,5 @@
 <a href="https://nextjs.org/" target="_blank"><img width="30px" src="https://storage.gorchilov.net/images/gh/nextjs.svg" /></a>
 <a href="https://sass-lang.com/" target="_blank"><img width="30px" src="https://storage.gorchilov.net/images/gh/sass.svg" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img width="30px" src="https://storage.gorchilov.net/images/gh/tensorflow.svg" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank"><img width="30px" src="https://storage.gorchilov.net/images/gh/raspberry.svg" /></a>
 </p>
