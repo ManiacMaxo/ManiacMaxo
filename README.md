@@ -12,7 +12,7 @@
 <p>
 <a href="https://www.nginx.com/" target="_blank" title="Nginx"><img width="30px" src="https://storage.gorchilov.net/images/gh/nginx.svg" /></a>
 <a href="https://www.docker.com/" target="_blank" title="Docker"><img width="30px" src="https://storage.gorchilov.net/images/gh/docker.svg" /></a>
-<a href="https://nextjs.org/" target="_blank" title="NextJS"><img width="30px" src="https://storage.gorchilov.net/images/gh/nextjs.svg" /></a>
+<a href="https://reactjs.org/" target="_blank" title="React"><img width="30px" src="https://storage.gorchilov.net/images/gh/react.svg" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow"><img width="30px" src="https://storage.gorchilov.net/images/gh/tensorflow.svg" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" title="Raspberry Pi"><img width="30px" src="https://storage.gorchilov.net/images/gh/raspberry.svg" /></a>
 </p>
