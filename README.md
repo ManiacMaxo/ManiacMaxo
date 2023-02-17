@@ -14,6 +14,7 @@
 <a href="https://www.docker.com/" target="_blank" title="Docker"><img height="30" src="https://storage.gorchilov.net/images/gh/docker.svg" /></a>
 <a href="https://reactjs.org/" target="_blank" title="React"><img height="30" src="https://storage.gorchilov.net/images/gh/react.svg" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img height="30" src="https://storage.gorchilov.net/images/gh/django.svg" /></a>
+<a href="https://graphql.org/" target="_blank" title="GraphQL"><img height="30" src="https://storage.gorchilov.net/images/gh/graphql.svg" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow"><img height="30" src="https://storage.gorchilov.net/images/gh/tensorflow.svg" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" title="Raspberry Pi"><img height="30" src="https://storage.gorchilov.net/images/gh/raspberry.svg" /></a>
 <a href="https://go.dev/" target="_blank" title="Golang"><img height="30" src="https://storage.gorchilov.net/images/gh/golang.svg" /></a>
