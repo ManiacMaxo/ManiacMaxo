@@ -16,4 +16,5 @@
 <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img width="30" src="https://storage.gorchilov.net/images/gh/django.svg" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow"><img width="30" src="https://storage.gorchilov.net/images/gh/tensorflow.svg" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" title="Raspberry Pi"><img width="30" src="https://storage.gorchilov.net/images/gh/raspberry.svg" /></a>
+<a href="https://go.dev/" target="_blank" title="Golang"><img width="30" src="https://storage.gorchilov.net/images/gh/golang.svg" /></a>
 </p>
