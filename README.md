@@ -1,7 +1,5 @@
 # Hi there! <img width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ManiacMaxo&count_private=true&show_icons=true&hide_title=true&hide=stars" />
-
 -   👀 Machine Learning enthusiast
 -   🔨 Next.js + Django/Echo
 -   ❤️ Snowboarding 🏂 and weight lifting 🏋️
