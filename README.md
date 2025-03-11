@@ -13,7 +13,7 @@
 <a href="https://reactjs.org/" target="_blank" title="React"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img height="30" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" /></a>
 <a href="https://graphql.org/" target="_blank" title="GraphQL"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" title="Raspberry Pi"><img height="30" src="https://github.com/walkxcode/dashboard-icons/raw/main/svg/raspberrypi.svg" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" title="Raspberry Pi"><img height="30" src="https://github.com/walkxcode/dashboard-icons/raw/main/svg/raspberry-pi.svg" /></a>
 <a href="https://go.dev/" target="_blank" title="Golang"><img height="30" src="https://github.com/walkxcode/dashboard-icons/raw/main/svg/go.svg" /></a>
 <a href="https://www.rust-lang.org/" target="_blank" title="Rust"><img height="30" src="https://github.com/walkxcode/dashboard-icons/raw/main/svg/rust.svg" /></a>
 </p>
